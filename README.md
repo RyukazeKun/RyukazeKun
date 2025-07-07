@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Royal, a 3rd Year Computer Science student passionate about Robotics, Machine Learning, and Game AI. With a foundation in web development using HTML, CSS, JavaScript, Django and other skills such as C++, RStudio, and MATLAB. I'm eager to dive deeper into these advanced fields. I am actively seeking opportunities to apply my skills to practical projects and research, aiming to pursue a career in this field.
+Hello, my name is Royal, a software engineer passionate about Robotics, Machine Learning, and Game AI. With a foundation in web development using HTML, CSS, JavaScript, Django and other skills such as C++, RStudio, and MATLAB. I'm eager to dive deeper into these advanced fields. I am actively seeking opportunities to apply my skills to practical projects and research, aiming to pursue a career in this field.
 
 
 ## 🌐 Socials:
